@@ -1,0 +1,14 @@
+.containerr{
+  display: flex;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+}
+.cardd{
+  width: 30vw;
+  border: 2px solid black;
+  height: 45vh;
+  overflow: auto;
+  margin: 5px;
+  padding: 5px;
+  border-radius:5px ;
+}
